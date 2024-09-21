@@ -45,13 +45,13 @@ const Navbar = () => {
             <a href="/" className="text-gray-800 hover:text-blue-600">
               Home
             </a>
-            <a href="/about" className="text-gray-800 hover:text-blue-600">
+            <a href="/" className="text-gray-800 hover:text-blue-600">
               About
             </a>
-            <a href="/services" className="text-gray-800 hover:text-blue-600">
+            <a href="/" className="text-gray-800 hover:text-blue-600">
               Services
             </a>
-            <a href="/contact" className="text-gray-800 hover:text-blue-600">
+            <a href="/" className="text-gray-800 hover:text-blue-600">
               Contact
             </a>
             <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-500">

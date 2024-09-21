@@ -26,7 +26,7 @@ const articles = [
 
 const LearningCenter = () => {
   return (
-    <div className="py-10">
+    <div className="py-10 container">
       <h1 className="text-4xl font-bold mb-4 text-gray-800 text-center mb-10">Learning Center</h1>
       <p className="text-center text-gray-600 mb-10">
         Discover great content to grow your skills in Design, Development and Marketing.
@@ -60,7 +60,7 @@ const LearningCenter = () => {
       </div>
 
       <div className="text-center mt-8">
-        <button className="bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600">
+        <button className="bg-blue-600 text-white px-6 py-4 rounded-md font-semibold hover:bg-blue-700">
           More Articles
         </button>
       </div>

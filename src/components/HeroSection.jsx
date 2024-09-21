@@ -3,8 +3,8 @@ import heroImage from '../assets/pexels-max-fischer-5212329.jpg'
 
 const HeroSection = () => {
   return (
-    <section className="bg-gradient-to-r from-blue-50 via-purple-50 to-white">
-      <div className="container mx-auto px-4 lg:px-8 py-16 flex flex-col lg:flex-row items-center">
+    <section className="bg-gradient-to-r from-blue-50 via-purple-50 to-white py-12 ">
+      <div className="container mx-auto px-4  lg:px-8 py-16 flex flex-col lg:flex-row items-center">
        
         <div className="lg:w-1/2 space-y-6 text-center lg:text-left">
           <h1 className="text-4xl lg:text-5xl font-bold text-gray-900">
